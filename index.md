@@ -1,7 +1,9 @@
-Currently, I am a Senior Research Scientist at SAP Machine Learning Research in [Berlin, Germany](https://www.google.com/maps/dir/52.5467648,13.4660096/SAP+Münzstr+15/@52.5365216,13.4064717,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47a851e1dab74057:0xae8d4cd859f4c58a!2m2!1d13.406999!2d52.5242668).
 
 
-Before, I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells) and a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). I did my PhD at the Technical University of Munich, where I was advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
+ I am Director of Machine Learning Research at SAP SE in [Berlin, Germany](https://www.google.com/maps/dir/52.5467648,13.4660096/SAP+Münzstr+15/@52.5365216,13.4064717,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47a851e1dab74057:0xae8d4cd859f4c58a!2m2!1d13.406999!2d52.5242668).
+ 
+ 
+I have been programming roughly since I was 10 years old, beginning with QBasic, Pascal and finally arriving at C/C++ as well as a bit of Assembly. Naturally, I studied computer science. I did my bachelors at University of Munich (LMU), and then switched to Technical University of Munich to do my Master's degree and also my Ph.D.  My Ph.D. research dealt at the intersection of medical imaging and machine learning related to ultrasound imaging, advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab). Afterwards I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). 
 <br/>
 <br/>
 [CV](https://github.com/TJKlein/tjklein.github.io/blob/master/CV_2019.pdf) \| [Email](mailto:tassilo.klein@sap.com) \| [LinkedIn](https://www.linkedin.com/in/tassiloklein/) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=z7-L4ywAAAAJ&view_op=list_works&sortby=pubdate)
@@ -15,7 +17,9 @@ Internship Position: Our research team is constantly hiring students and interns
 
 ### News
 
-[2020.02] Paper accept at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
+[2020.04] Paper accepted at [ACL](https://acl2020.org/) on contrastive self-supervised commonsense reasoning. More info following soon.
+
+[2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
 
 [2019.10.20] Paper on Multi-Domain Learning accepted at [ICCV 2019](http://iccv2019.thecvf.com/) (acceptance rate 25.0%) - [arXiv](https://arxiv.org/abs/1905.06242)
 
