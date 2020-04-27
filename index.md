@@ -5,8 +5,6 @@
  
 I have been programming roughly since I was 10 years old, beginning with QBasic, Pascal and finally arriving at C/C++ as well as a bit of Assembly. Naturally, I studied computer science. I did my bachelors at University of Munich (LMU), and then switched to Technical University of Munich to do my Master's degree and also my Ph.D.  My Ph.D. research dealt at the intersection of medical imaging and machine learning related to ultrasound imaging, advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab). Afterwards I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). 
 <br/>
-<br/>
-[CV](https://github.com/TJKlein/tjklein.github.io/blob/master/CV_2019.pdf) \| [Email](mailto:tassilo.klein@sap.com) \| [LinkedIn](https://www.linkedin.com/in/tassiloklein/) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=z7-L4ywAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ### Research
