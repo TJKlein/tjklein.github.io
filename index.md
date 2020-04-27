@@ -1,35 +1,26 @@
-## Portfolio
-
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+Currently, I am a Senior Research Scientist at SAP Machine Learning Research in [Berlin, Germany](https://www.google.com/maps/dir/52.5467648,13.4660096/SAP+Münzstr+15/@52.5365216,13.4064717,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47a851e1dab74057:0xae8d4cd859f4c58a!2m2!1d13.406999!2d52.5242668).
 
 
+Before, I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells) and a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). I did my PhD at the Technical University of Munich, where I was advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
+<br/>
+<br/>
+[CV](https://github.com/TJKlein/tjklein.github.io/blob/master/CV_2019.pdf) \| [Email](mailto:tassilo.klein@sap.com) \| [LinkedIn](https://www.linkedin.com/in/tassiloklein/) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=z7-L4ywAAAAJ&view_op=list_works&sortby=pubdate)
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+### Research
+
+My research interests lie at the intersection of machine learning, computer vision, and natural language processing. Although not my current main focus, I am very much interested in machine learning in the medical domain.
+
+Internship Position: Our research team is constantly hiring students and interns. If you're a PhD student interested in a research internship working in Berlin, please send an email with your CV and research interests. Right now, we are particularly looking for interns for medical imaging (self-supervised learning), NLP (commonsense reasoning), and privacy-preserving ML. Check out our research team's [blog](https://medium.com/sap-machine-learning-research) to learn more about current research activity there.
+
+### News
+
+[2020.02] Paper accept at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
+
+[2019.10.20] Paper on Multi-Domain Learning accepted at [ICCV 2019](http://iccv2019.thecvf.com/) (acceptance rate 25.0%) - [arXiv](https://arxiv.org/abs/1905.06242)
+
+[2019.05.14] Short-paper on commonsense reasoning accepted at [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (acceptance rate 18.2%) - [arXiv](https://arxiv.org/abs/1905.13497), [code](https://github.com/SAP-samples/acl2019-commonsense-reasoning)
+
+[2019.02.25] Paper accepted at [CVPR 2019](http://cvpr2019.thecvf.com/) (acceptance rate 25.2%) -[link](http://openaccess.thecvf.com/content_CVPR_2019/html/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.html), [code](https://github.com/SAP/machine-learning-dgm)
+
+[2017.02.01] Paper accept at [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [arXiv](https://arxiv.org/abs/1702.08192), [code](https://github.com/TJKlein/DeepNAT)
