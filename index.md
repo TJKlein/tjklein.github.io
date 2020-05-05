@@ -15,7 +15,7 @@ Internship Position: Our research team is continuously hiring students and inter
 ### News
 
 
-[2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning. More info following soon.
+[2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning. [arXiv](https://arxiv.org/abs/2005.00669)
 
 [2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
 
