@@ -32,4 +32,4 @@ My research interests lie at the intersection of machine learning, computer visi
 [2017.02.01] Paper accept at [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [arXiv](https://arxiv.org/abs/1702.08192), [code](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 06/07/2020]*
+*[last update: 09/23/2020]*
