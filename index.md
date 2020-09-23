@@ -17,8 +17,9 @@ My research interests lie at the intersection of machine learning, computer visi
 
 ### News
 
+[2020.09] Presentation on commonsense reasoning in AI: [video](https://youtu.be/AdA6aJpxFfM?t=2457), [blog](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082).
 
-[2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning (acceptance rate of 17.6%) - [arXiv](https://arxiv.org/abs/2005.00669), [code](https://github.com/SAP-samples/acl2019-commonsense-reasoning)
+[2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning (acceptance rate of 17.6%) - [arXiv](https://arxiv.org/abs/2005.00669), [code](https://github.com/SAP-samples/acl2019-commonsense-reasoning), [video](http://slideslive.com/38929108).
 
 [2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
 
