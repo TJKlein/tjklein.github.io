@@ -1,7 +1,7 @@
 
 
- 
-My interested for computers started around the age of 7, when I was playing around with an Apple III. Intrigued by the capability of computers, I begang to learn programming at the age of around 9 years. I started with good old QBasic, Pascal, and finally arrived at C/C++ as well as a bit of Assembly. Later I studied computer science. I did my bachelor's at the University of Munich (LMU). Afterwards, I switched to the Technical University of Munich (TUM) to do my Master's degree. At TUM, I learned about group of [Computer Aided Medical Procedures (CAMP)](http://campar.in.tum.de/WebHome) working on a diverse set of topics in a highly interdisciplinary fashion. Fascinated by AI in healthcare, I decided to do my Ph.D. on issues at the intersection of medical imaging and machine learning (raw ultraound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab). After completing my Ph.D. I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
+### Bio  
+I did my Bachelor's in computer science at the University of Munich (LMU). Afterwards, I continued at the Technical University of Munich (TUM) to obtain my Master's degree. At TUM I did my Ph.D. at the intersection of medical imaging and machine learning (raw ultraound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab). After completing my Ph.D. I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
 After my postdoc, I went back to Europe to conduct research in an industrial setting at SAP SE, Berlin.
 
 Currently, I am Director of AI Research at SAP SE in [Berlin, Germany](https://www.google.com/maps/dir/52.5467648,13.4660096/SAP+Münzstr+15/@52.5365216,13.4064717,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47a851e1dab74057:0xae8d4cd859f4c58a!2m2!1d13.406999!2d52.5242668).
@@ -17,7 +17,7 @@ My research interests lie at the intersection of machine learning, computer visi
 
 ### News
 
-[2020.02] Paper accepted at [IPMI 2021](https://ipmi2021.org/) on self-supervised representation learning for medical imaging
+[2021.02] Paper accepted at [IPMI 2021](https://ipmi2021.org/) on self-supervised representation learning for medical imaging
 
 [2020.09] Presentation on commonsense reasoning in AI: [video](https://youtu.be/AdA6aJpxFfM?t=2457), [blog](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082).
 
