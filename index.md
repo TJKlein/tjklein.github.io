@@ -1,13 +1,10 @@
 
 
 ### Bio  
-I did my Bachelor's in computer science at the University of Munich (LMU). Afterwards, I continued at the Technical University of Munich (TUM) to obtain my Master's degree. At TUM I did my Ph.D. at the intersection of medical imaging and machine learning (raw ultraound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab). After completing my Ph.D. I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
-After my postdoc, I went back to Europe to conduct research in an industrial setting at SAP SE, Berlin.
 
 Currently, I am Director of AI Research at SAP SE in [Berlin, Germany](https://www.google.com/maps/dir/52.5467648,13.4660096/SAP+Münzstr+15/@52.5365216,13.4064717,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47a851e1dab74057:0xae8d4cd859f4c58a!2m2!1d13.406999!2d52.5242668).
-
-<br/>
-
+Prior to joining SAP, I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
+I obtained my Ph.D. from Technical University of Munich (TUM) at the intersection of medical imaging and machine learning (raw ultraound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
 
 ### Research
 
