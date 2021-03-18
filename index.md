@@ -17,7 +17,7 @@ My research interests lie at the intersection of machine learning, computer visi
 
 ### News
 
-[2021.02] Paper accepted at [IPMI 2021](https://ipmi2021.org/) on self-supervised representation learning for medical imaging
+[2021.02] Paper accepted at [IPMI 2021](https://ipmi2021.org/) on self-supervised representation learning for medical imaging (acceptance rate 30.0%)
 
 [2020.09] Presentation on commonsense reasoning in AI: [video](https://youtu.be/AdA6aJpxFfM?t=2457), [blog](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082).
 
