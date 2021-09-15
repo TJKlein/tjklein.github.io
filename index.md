@@ -14,7 +14,7 @@ My research interests lie at the intersection of machine learning, computer visi
 
 ### News
 
-[2021.08] Two papers accepted at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Self-Supervised Learning for Commonsense Reasoning.
+[2021.08] Two papers accepted at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Self-Supervised Learning for Commonsense Reasoning - [arXiv](https://arxiv.org/abs/2109.05105), [code](https://github.com/SAP-samples/emnlp2021-contrastive-refinement/) and [arXiv](https://arxiv.org/abs/2109.05108), [code] (https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/)
 
 [2021.04] Acceptance of co-organized at [ICML 2021 workshop](https://icml21ssl.github.io/index.html) on Self-Supervised Learning for Reasoning and Perception 
 
@@ -35,4 +35,4 @@ My research interests lie at the intersection of machine learning, computer visi
 [2017.02.01] Paper accept at [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [arXiv](https://arxiv.org/abs/1702.08192), [code](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 08/25/2021]*
+*[last update: 09/15/2021]*
