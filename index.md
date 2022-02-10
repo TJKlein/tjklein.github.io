@@ -12,6 +12,167 @@ My research interests lie at the intersection of machine learning, computer visi
 
 *Internship Position:* Our research team is continuously hiring students and interns. If you're a Ph.D. student interested in a research internship working in Berlin, please send an email with your CV and research interests. Right now, we are particularly looking for interns for medical imaging (self-supervised learning), NLP (commonsense reasoning), and privacy-preserving ML. Check out our research team's [blog](https://medium.com/sap-machine-learning-research) to learn more about current research activity there.
 
+<div id="chart"></div>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+  // (c) by Tassilo Klein, 2022 (https://tjklein.github.io)
+
+var index = -1
+d3.json("https://raw.githubusercontent.com/TJKlein/tjklein.github.io/master/data/highres_transformer.json",   function(data) {
+
+const t = d3.transition()
+      .duration(750);
+
+var margin = {top: 100, right: 50, bottom: 50, left: 50}
+  , width = 600 - margin.left - margin.right // Use the window's width
+  , height = 400 - margin.top - margin.bottom; // Use the window's height
+  var svg = d3.select("body").append("svg").attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  
+  function preprocess(data) {
+    index = index +1
+    if (index == data.length) {
+      index = 0
+    }
+    return ({min_domain_x: data[index].data_range.min, max_domain_x: data[index].data_range.max, data: data[index].data_set1})
+  }
+
+ function update(myData) {
+
+var max_domain_x = myData.max_domain_x*1.1 // data[0].data_range.max
+var min_domain_x = myData.min_domain_x*.4 // data[0].data_range.min
+
+
+// 1. Add the SVG to the page and employ #2
+
+// X axis: scale and draw:
+  var x = d3.scaleLinear()
+      .domain([min_domain_x,max_domain_x])     // can use this instead of 1000 to have the max of data: d3.max(data, function(d) { return +d.price })
+      .range([0, width]);
+
+var categories = ["1","2","3","4","5","6","7","8","9","10","11","12"];
+ 
+var col_array = d3.quantize(d3.interpolateHcl("#69b36b", "#69b3a2"), categories.length)
+  
+// Create the Y axis for names
+var yName = d3.scaleBand()
+    .domain(categories)
+    .range([0, height])
+    .paddingInner(1)
+  svg.append("g")
+   // .call(d3.axisLeft(yName));
+
+
+function kde(kernel, thresholds, data) {
+  return thresholds.map(t => [t, d3.mean(data, d => kernel(t - d))]);
+}
+function epanechnikov(bandwidth) {
+  return x => Math.abs(x /= bandwidth) <= 1 ? 0.75 * (1 - x * x) / bandwidth : 0;
+}
+// number of samples for KDE
+var n_kde = 250
+// number of samples for binning
+var n_hist = 250
+// var data_set1 = data[0].data_set1;
+// determine number of data samples
+var n_data = myData.data.length
+
+var allDensity = []
+var allBins = []
+// this variable is needed to scale data
+var maxData = []
+// compute the x scale of the data (x Axis), y axis computation is deferred until after KDE
+var x = d3.scaleLinear()
+    .domain([min_domain_x,max_domain_x]).nice()
+    .range([0, width])
+//console.log(d3.count(Array.from(["first","second", "third", "fourth", "fiveth", "sixth"])));
+for (var i = 0; i < categories.length; i++) {
+  var key = categories[i]
+  var mean = d3.randomUniform(30,90)()
+  var variance = d3.randomUniform(5,10)()
+  //var data_set = d3.range(n_data).map(function(d) { return d3.randomNormal(mean, variance)() })
+  var data_set = myData.data[i]
+   //console.log(data_set)
+  var kde_thresholds = x.ticks(n_kde)
+  var hist_thresholds = x.ticks(n_hist)
+  var bandwidth = 0.35
+  var density = kde(epanechnikov(bandwidth), kde_thresholds, data_set)
+
+
+  var bins = d3.histogram()
+    .domain(x.domain())
+    .thresholds(hist_thresholds)
+  (data_set)
+
+
+  allDensity.push({key: key, density: density})
+  allBins.push({key: key, bins: bins})
+
+
+  // push data for finding the max value
+  density.forEach((element) => { maxData.push(element[1])});
+}
+
+// determine max value to scale nicely
+maxData = d3.max(maxData)
+var y = d3.scaleLinear()
+    .domain([0, maxData*categories.length*(1-0.2)])
+    .range([ height, 0]);
+  
+
+// Add areas
+  var u = svg.selectAll("areas")
+    .data(allDensity)
+    .enter()
+    .append("path")
+   .attr("stroke", function(d){ 
+        return(col_array[d.key-1])})
+      .attr("transform", function(d){
+        return("translate(0," + (yName(d.key)-height) +")" )})
+      .datum(function(d){return(d.density)})
+      //.attr("fill", "69b3a2")//"#69b3a2")
+      .attr("fill-opacity","0.0")
+      .attr("stroke-opacity", "0.0")
+      //.transition()
+       // .style("stroke-opacity","1.0")
+       // .duration(5000)
+      //.attr("fill-opacity","0.5")
+      .attr("stroke-width", 1)
+      .attr("d",  d3.line()
+          .curve(d3.curveBasis)
+          .x(function(d) { return x(d[0]); })
+          .y(function(d) { return y(d[1]); })
+      )
+      .transition()
+        .ease(d3.easeLinear)
+      .transition()
+        .style("stroke-opacity","1.0")
+        .duration(1000)
+      .transition()
+        .style("fill", "69b3a2")
+        .style("fill-opacity","0.5")
+        .duration(2000)
+      .transition()
+            .style("opacity", 0.0)
+            .duration(10000);
+
+
+
+}
+  
+  // inspired by:
+  // https://bl.ocks.org/d3noob/464c92429ac05c6a19a1
+ 
+  d3.interval(() => {
+  update(preprocess(data));
+}, 2000);
+
+  });
+
+ </script>
+
 ### News
 
 [2021.08] Two papers accepted at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Self-Supervised Learning for Commonsense Reasoning - [arXiv](https://arxiv.org/abs/2109.05105), [code](https://github.com/SAP-samples/emnlp2021-contrastive-refinement/) and [arXiv](https://arxiv.org/abs/2109.05108), [code] (https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/)
