@@ -46,4 +46,4 @@ new Runtime().module(define, name => {
 });
 </script>
 |:--:| 
-| *Space* |
+| Visualization of Transformer language model dynamics |
