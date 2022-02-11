@@ -34,3 +34,12 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 
 *[last update: 02/11/2022]*
+
+
+<div id="observablehq-a626d7c4"></div>
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@datarichard/moving-bubble-plot-of-hospital-transfers-using-d3-js.js?v=3";
+const inspect = Inspector.into("#observablehq-a626d7c4");
+(new Runtime).module(define, name => name === "chart" ? inspect() : undefined);
+</script>
