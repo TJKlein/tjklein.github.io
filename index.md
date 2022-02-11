@@ -36,11 +36,5 @@ My research interests lie in natural language processing (NLP) and at the inters
 *[last update: 02/11/2022]*
 
 
-<div id="observablehq-chart-9ad5b440" style="text-align: left; width:500px;"></div>
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-import define from "https://api.observablehq.com/@tjklein/transformer-language-model-dynamics.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-9ad5b440"));
-});
-</script>
+<iframe width="100%" height="528" frameborder="0"
+  src="https://observablehq.com/embed/@tjklein/transformer-language-model-dynamics?cells=chart"></iframe>
