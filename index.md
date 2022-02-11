@@ -1,6 +1,4 @@
 ---
-title:  "D3.js in Jekyll Markdown"
-date:   2017-01-02 15:00:00
 categories: [code]
 tags: [code, d3js]
 ---
