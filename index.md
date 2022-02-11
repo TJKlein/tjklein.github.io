@@ -2,8 +2,9 @@
 
 ### Projects
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
 
+<script>
 
 <svg id="graph"></svg>
 
