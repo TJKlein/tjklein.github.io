@@ -36,7 +36,7 @@ My research interests lie in natural language processing (NLP) and at the inters
 *[last update: 02/11/2022]*
 
 
-| <div id="observablehq-chart-9ad5b440"></div>
+| <div id="observablehq-chart-9ad5b440"></div> |
 <script type="module">
 import {Runtime, Inspector, Library} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 const runtime = new Runtime(Object.assign(new Library, {width: 640}));
