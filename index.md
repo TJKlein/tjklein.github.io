@@ -6,6 +6,18 @@ I obtained my Ph.D. from Technical University of Munich (TUM) at the intersectio
 
 ### Research
 
+<div id="observablehq-chart-9ad5b440"></div>
+<script type="module">
+import {Runtime, Inspector, Library} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+const runtime = new Runtime(Object.assign(new Library, {width: 640}));
+import define from "https://api.observablehq.com/@tjklein/transformer-language-model-dynamics.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-9ad5b440"));
+});
+</script>
+|:--:| 
+| Snapshot visualization of current research: Transformer language model dynamics for efficient self-supervised learning. |
+
 My research interests lie in natural language processing (NLP) and at the intersection of NLP computer vision. I am particularly interested in efficient self-supervised representation learning and continual learning. Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
 *Internship Position:* Our research team is continuously hiring students and interns. If you are a Ph.D. student interested in a research internship working in Berlin, please send an email with your CV and research interests. Right now, we are particularly looking for interns for self-supervised, continual learning in NLP and privacy ML. Check out our research team's [blog](https://medium.com/sap-machine-learning-research) to learn more about current research activity there.
@@ -35,15 +47,3 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 *[last update: 02/11/2022]*
 
-
-<div id="observablehq-chart-9ad5b440"></div>
-<script type="module">
-import {Runtime, Inspector, Library} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-const runtime = new Runtime(Object.assign(new Library, {width: 640}));
-import define from "https://api.observablehq.com/@tjklein/transformer-language-model-dynamics.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-9ad5b440"));
-});
-</script>
-|:--:| 
-| Snapshot visualization of current research: Transformer language model dynamics |
