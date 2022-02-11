@@ -46,4 +46,4 @@ new Runtime().module(define, name => {
 });
 </script>
 |:--:| 
-| Visualization of Transformer language model dynamics |
+| Snapshot visualization of current research: Transformer language model dynamics |
