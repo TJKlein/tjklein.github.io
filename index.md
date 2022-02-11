@@ -34,3 +34,11 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 
 *[last update: 02/11/2022]*
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/d/1743a7a451cd13b1.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-c68d4192"));
+});
+</script>
