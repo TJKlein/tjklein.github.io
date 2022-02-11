@@ -35,6 +35,8 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 *[last update: 02/11/2022]*
 
+
+<div id="observablehq-chart-9ad5b440"></div>
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@tjklein/transformer-language-model-dynamics.js?v=3";
