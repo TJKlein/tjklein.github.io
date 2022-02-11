@@ -4,7 +4,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
 
-- [Visualizations in D3.js](https://github.com/Chaconine/website-resume): An undirected force graph of players and their interpersonal relationships from Les Misérables.
 
 <svg id="graph"></svg>
 
