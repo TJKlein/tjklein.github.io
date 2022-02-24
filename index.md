@@ -23,7 +23,7 @@ My research interests lie in natural language processing (NLP) and at the inters
 *Internship Position:* Our research team is continuously hiring students and interns. If you are a Ph.D. student interested in a research internship working in Berlin, please send an email with your CV and research interests. Right now, we are particularly looking for interns for self-supervised, continual learning in NLP and privacy ML. Check out our research team's [blog](https://medium.com/sap-machine-learning-research) to learn more about current research activity there.
 
 ### News
-**[2022.02]** 🔥**NEW**🔥 - Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supersupervised sentence representation learning 
+**[2022.02]** 🔥**NEW**🔥 - Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
 
 [2021.08] Two papers accepted at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Self-Supervised Learning for Commonsense Reasoning - [arXiv](https://arxiv.org/abs/2109.05105), [code](https://github.com/SAP-samples/emnlp2021-contrastive-refinement/) and [arXiv](https://arxiv.org/abs/2109.05108), [code](https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/)
 
