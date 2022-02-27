@@ -39,11 +39,13 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 [![arXiv](https://img.shields.io/badge/arXiv-1912.05396-29d634.svg)](https://arxiv.org/abs/1912.05396) 
 
-[2020.09] Presentation on commonsense reasoning in AI: [video](https://youtu.be/AdA6aJpxFfM?t=2457), [blog](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082).
+[2020.09] Presentation on commonsense reasoning in AI
+
+[![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/AdA6aJpxFfM?t=2457) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082)
 
 [2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning (acceptance rate of 17.6%)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2005.00669-29d634.svg)](https://arxiv.org/abs/2005.00669) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning), [video](http://slideslive.com/38929108).
+[![arXiv](https://img.shields.io/badge/arXiv-2005.00669-29d634.svg)](https://arxiv.org/abs/2005.00669) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning) [![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](http://slideslive.com/38929108)
 
 [2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
 
