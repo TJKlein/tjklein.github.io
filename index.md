@@ -37,6 +37,8 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 [2021.02] Paper accepted at [IPMI 2021](https://ipmi2021.org/) on self-supervised representation learning for medical imaging (acceptance rate 30.0%)
 
+[![arXiv](https://img.shields.io/badge/arXiv-1912.05396-29d634.svg)](https://arxiv.org/abs/1912.05396) 
+
 [2020.09] Presentation on commonsense reasoning in AI: [video](https://youtu.be/AdA6aJpxFfM?t=2457), [blog](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082).
 
 [2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning (acceptance rate of 17.6%)
