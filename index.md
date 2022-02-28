@@ -55,7 +55,7 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 [2019.05.14] Short-paper on commonsense reasoning accepted at [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (acceptance rate 18.2%)
 
-[![arXiv](https://img.shields.io/badge/arXiv-1905.13497-29d634.svg)](https://arxiv.org/abs/1905.13497) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning)
+[![arXiv](https://img.shields.io/badge/arXiv-1905.13497-29d634.svg)](https://arxiv.org/abs/1905.13497) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning) [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/SAP-samples/acl2019-commonsense/blob/main/MAS_Example.ipynb)
 
 [2019.02.25] Paper accepted at [CVPR 2019](http://cvpr2019.thecvf.com/) (acceptance rate 25.2%)
 
