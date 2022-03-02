@@ -47,7 +47,9 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 [![arXiv](https://img.shields.io/badge/arXiv-2005.00669-29d634.svg)](https://arxiv.org/abs/2005.00669) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning) [![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](http://slideslive.com/38929108)
 
-[2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage) - [link](https://www.sciencedirect.com/science/article/pii/S2213158220300231)
+[2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage)
+
+[![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) 
 
 [2019.10.20] Paper on Multi-Domain Learning accepted at [ICCV 2019](http://iccv2019.thecvf.com/) (acceptance rate 25.0%)
 
