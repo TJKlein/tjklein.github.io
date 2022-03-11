@@ -27,7 +27,7 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 [2021.08] Paper at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Language Model Refinement for Commonsense Reasoning
 
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2109.05105) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/emnlp2021-contrastive-refinement/) 
+[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2109.05105) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/emnlp2021-contrastive-refinement/) [![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](https://underline.io/lecture/37666-towards-zero-shot-commonsense-reasoning-with-self-supervised-refinement-of-language-models)
 
 [2021.08] Paper at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Self-Supervised Learning for Commonsense Reasoning
 
