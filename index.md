@@ -18,7 +18,6 @@ new Runtime().module(define, name => {
 
 My research interests lie in natural language processing (NLP) and at the intersection of NLP computer vision. I am particularly interested in efficient self-supervised representation learning and continual learning. Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
-*Internship Position:* Our research team is continuously hiring students and interns. If you are a Ph.D. student interested in a research internship working in Berlin, please send an email with your CV and research interests. Right now, we are particularly looking for interns for self-supervised, continual learning in NLP and privacy ML. Check out our research team's [blog](https://medium.com/sap-machine-learning-research) to learn more about current research activity there.
 
 ### News
 **[2022.02]** 🔥**NEW**🔥 - Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
