@@ -22,7 +22,7 @@ new Runtime().module(define, name => {
 });
 </script>
 |:--:| 
-| Snapshot visualization of Transformer language model dynamics |
+| Snapshot visualization of Transformer language model dynamics (more info coming soon) |
 
 My research interests lie in natural language processing (NLP) and at the intersection of NLP computer vision. I am particularly interested in efficient self-supervised representation learning and continual learning. Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
