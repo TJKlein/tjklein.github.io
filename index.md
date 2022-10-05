@@ -5,6 +5,14 @@ I obtained my Ph.D. from Technical University of Munich (TUM) at the intersectio
 ### Research
 
 <div id="observablehq-chart-9ad5b440"></div>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DEZEKX2WTM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DEZEKX2WTM');
+</script>
 <script type="module">
 import {Runtime, Inspector, Library} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 const runtime = new Runtime(Object.assign(new Library, {width: 640}));
