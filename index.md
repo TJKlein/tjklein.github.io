@@ -1,4 +1,4 @@
-Currently, I am Principal Research Scientist at [SAP AI Research](https://www.sap.com/germany/products/artificial-intelligence/research.html) in Berlin, Germany as well as scientific advisor of [MESASIGHT](https://www.mesasight.com/).
+Currently, I am research scientist at [SAP AI Research](https://www.sap.com/germany/products/artificial-intelligence/research.html) in Berlin, Germany as well as scientific advisor of [MESASIGHT](https://www.mesasight.com/).
 Prior to joining SAP, I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
 I obtained my Ph.D. from Technical University of Munich (TUM) at the intersection of medical imaging and machine learning (raw ultraound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
 
@@ -28,7 +28,7 @@ My research interests lie in natural language processing (NLP) and at the inters
 
 
 ### News
-**[2022.02]** 🔥**NEW**🔥 - Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
+**[2022.02]** Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
 
  [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/) 
 
@@ -75,5 +75,5 @@ My research interests lie in natural language processing (NLP) and at the inters
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 02/28/2022]*
+*[last update: 11/09/2022]*
 
