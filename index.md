@@ -4,31 +4,17 @@ I obtained my Ph.D. from Technical University of Munich (TUM) at the intersectio
 
 ### Research
 
-<div id="observablehq-chart-9ad5b440"></div>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DEZEKX2WTM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-DEZEKX2WTM');
-</script>
-<script type="module">
-import {Runtime, Inspector, Library} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-const runtime = new Runtime(Object.assign(new Library, {width: 640}));
-import define from "https://api.observablehq.com/@tjklein/transformer-language-model-dynamics.js?v=3";
-new Runtime().module(define, name => {
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-9ad5b440"));
-});
-</script>
-|:--:| 
-| Snapshot visualization of Transformer language model dynamics (more info coming soon) |
-
-My research interests lie in natural language processing (NLP) and at the intersection of NLP computer vision. I am particularly interested in efficient self-supervised representation learning and continual learning. Although not my current main focus, I am very much interested in machine learning in the medical domain.
+My research interests lie in natural language processing (NLP), knowledge-graph integration into language models, and the intersection of NLP computer vision. I am particularly interested in efficient self-supervised representation learning. Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
 
 ### News
-**[2022.02]** Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
+**[2022.11]** 🔥**NEW**🔥 - Pre-print paper [arXiv](https://arxiv.org/abs/2211.04928) on self-supervised information-theoretic sentence representation learning. 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)]([https://arxiv.org/abs/2203.07847](http://arxiv.org/abs/2211.04928))
+
+
+[2022.02] Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
 
  [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/) 
 
@@ -75,5 +61,5 @@ My research interests lie in natural language processing (NLP) and at the inters
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 11/09/2022]*
+*[last update: 11/10/2022]*
 
