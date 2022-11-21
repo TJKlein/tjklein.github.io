@@ -11,8 +11,7 @@ My research interests lie in natural language processing (NLP), knowledge-graph 
 ### News
 **[2022.11]** 🔥**NEW**🔥 - Pre-print paper [arXiv](https://arxiv.org/abs/2211.04928) on self-supervised information-theoretic sentence representation learning. 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)]([https://arxiv.org/abs/2203.07847](http://arxiv.org/abs/2211.04928))
-
+[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
 
 [2022.02] Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
 
