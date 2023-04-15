@@ -2,7 +2,7 @@ Currently, I am research scientist at [SAP AI Research](https://www.sap.com/germ
 Prior to joining SAP, I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
 I obtained my Ph.D. from Technical University of Munich (TUM) at the intersection of medical imaging and machine learning (raw ultraound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
 
-{% include chatbot.html}
+{% include chatbot.html %}
 
 ### Research
 
