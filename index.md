@@ -9,7 +9,7 @@ My research interests lie in natural language processing (NLP), learning with mi
 
 
 ### News
-**[2023.05]** 🔥**NEW**🔥 - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on few-shot self-supervised learning for sentence representation learning. Pre-print [arXiv](https://arxiv.org/abs/2211.04928)
+**[2023.05]** 🔥**NEW**🔥 - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations. Pre-print [arXiv](https://arxiv.org/abs/2211.04928)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
 
