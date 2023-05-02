@@ -9,7 +9,7 @@ My research interests lie in natural language processing (NLP), learning with mi
 
 
 ### News
-**[2022.11]** 🔥**NEW**🔥 - Pre-print paper [arXiv](https://arxiv.org/abs/2211.04928) on self-supervised information-theoretic sentence representation learning. 
+**[2023.05]** 🔥**NEW**🔥 - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on few-shot self-supervised learning for sentence representation learning. Pre-print [arXiv](https://arxiv.org/abs/2211.04928)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
 
@@ -60,5 +60,5 @@ My research interests lie in natural language processing (NLP), learning with mi
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 11/10/2022]*
+*[last update: 05/02/2023]*
 
