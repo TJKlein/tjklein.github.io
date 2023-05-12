@@ -5,7 +5,13 @@ I obtained my Ph.D. from Technical University of Munich (TUM) at the intersectio
 ### Research
 
 
-My research interests lie in natural language processing (NLP), learning with minimal supervision, natural-language generation, knowledge-graph integration into language models, and the intersection of NLP computer vision. Although not my current main focus, I am very much interested in machine learning in the medical domain.
+My current research interests lie in natural language processing (NLP):
+* learning with minimal supervision (few-shot learning, self-supervised learning)
+* natural-language generation (reducing hallucinations and toxicity in LLMs)
+* knowledge-graph integration into language models
+* intersection of NLP computer vision
+
+Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
 
 ### News
