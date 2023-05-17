@@ -13,11 +13,10 @@ My current research interests lie in natural language processing (NLP):
 
 Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
-
 ### News
 **[2023.05]** 🔥**NEW**🔥 - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations. Pre-print [arXiv](https://arxiv.org/abs/2211.04928)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2023-micse/) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
 
 [2022.02] Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
 
@@ -66,5 +65,5 @@ Although not my current main focus, I am very much interested in machine learnin
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 05/02/2023]*
+*[last update: 05/17/2023]*
 
