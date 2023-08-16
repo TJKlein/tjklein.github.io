@@ -11,7 +11,6 @@ My current research interests lie in natural language processing (NLP):
 * knowledge-graph integration into language models
 * intersection of NLP computer vision
 
-Although not my current main focus, I am very much interested in machine learning in the medical domain.
 
 ### News
 **[2023.05]** 🔥**NEW**🔥 - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations. Pre-print [arXiv](https://arxiv.org/abs/2211.04928)
