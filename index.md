@@ -13,7 +13,7 @@ My current research interests lie in natural language processing (NLP):
 
 
 ### News
-**[2023.05]** 🔥**NEW**🔥 - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations. Pre-print [arXiv](https://arxiv.org/abs/2211.04928)
+[2023.05] - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2023-micse/) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
 
@@ -59,7 +59,7 @@ My current research interests lie in natural language processing (NLP):
 
 [![arXiv](https://img.shields.io/badge/arXiv-1904.03137-29d634.svg)](https://arxiv.org/abs/1904.03137) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP/machine-learning-dgm)
 
-[2017.02.01] Paper accept at [NeuroImage](https://www.journals.elsevier.com/neuroimage)
+[2017.02.01] Paper accepted at [NeuroImage](https://www.journals.elsevier.com/neuroimage)
 
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
