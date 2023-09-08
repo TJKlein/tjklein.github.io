@@ -7,8 +7,8 @@ I obtained my Ph.D. from Technical University of Munich (TUM) at the intersectio
 
 My current research interests lie in natural language processing (NLP) and the intersection with with computervision:
 * Learning with minimal supervision (few-shot learning, self-supervised learning)
-* LLM alignment
-* Multi-modal LLMs (reasoning, knowledge-graph integration)
+* LLM alignment (integration of knowledge-graphs)
+* Multi-modal LLMs (advanced reasoning with LLMs, knowledge-grounded LLMs)
 
 
 ### News
