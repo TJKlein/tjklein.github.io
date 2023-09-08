@@ -5,11 +5,10 @@ I obtained my Ph.D. from Technical University of Munich (TUM) at the intersectio
 ### Research
 
 
-My current research interests lie in natural language processing (NLP):
-* learning with minimal supervision (few-shot learning, self-supervised learning)
-* generative AI safety (reducing hallucinations and toxicity in LLMs)
-* knowledge-graph integration into language models
-* intersection of NLP computer vision
+My current research interests lie in natural language processing (NLP) and the intersection with with computervision:
+* Learning with minimal supervision (few-shot learning, self-supervised learning)
+* LLM alignment
+* Multi-modal LLMs (reasoning, knowledge-graph integration)
 
 
 ### News
