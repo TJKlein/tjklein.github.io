@@ -15,8 +15,9 @@ My current research interests lie in natural language processing (NLP) and the i
 
 ### News
 
-[2024.01] - [arXiv](http://arxiv.org/abs/2401.08491) pre-print available on Contrastive Perplexity for Controlled Generation:
-An Application in Detoxifying Large Language Models
+[2024.01] -  Pre-print available on Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models
+
+[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2401.08491) 
 
 [2023.05] - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations.
 
