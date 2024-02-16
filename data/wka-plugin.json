@@ -1,0 +1,14 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Windparks Brandenburg",
+    "name_for_model": "wka-brandenburg",
+    "description_for_human": "Providing information about all windparks located in Brandenburg.",
+    "description_for_model": "Providing information about all windparks located in Brandenburg.",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "tbd - insert here"
+    }
+}

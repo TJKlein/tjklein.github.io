@@ -1,0 +1,52 @@
+---
+openapi: 3.0.0
+info:
+  title: WKA-BRB API
+  description: Der INSPIRE Downloaddienst beinhaltet Informationen zu
+    Windkraftanlagen im Land Brandenburg. Bereitgestellt werden betriebene
+    Windkraftanlagen, genehmigte und noch nicht in Betrieb genommene
+    Windkraftanlagen sowie geplant Windkraftanlagen, die sich noch im
+    Genehmigungsverfahren befinden. Datenquelle ist das
+    Anlageninformationssystem LIS-A, die Anlagen werden nach Leistung
+    differenziert.
+  version: 0.0.1
+servers:
+  - url: https://inspire.brandenburg.de
+paths:
+  /services/wka_wfs:
+    get:
+      summary: returns a list of all wind parks in Brandenburg, Germany
+      parameters:
+        - in: null
+          name: request
+          required: true
+          schema:
+            type: string
+          description: only 'GetFeature' is allowed
+        - in: null
+          name: service
+          required: true
+          schema:
+            type: string
+          description: only 'WFS' is allowed
+        - in: null
+          name: version
+          required: true
+          schema:
+            type: string
+          description: only '2.0.0' is allowed
+        - in: null
+          name: typeNames
+          required: true
+          schema:
+            type: string
+          description: only 'namespace:wka' is allowed
+        - in: null
+          name: outputFormat
+          required: true
+          schema:
+            type: string
+          description: only 'application/geo%2Bjson' is allowed
+      responses:
+        "200":
+          description: OK
