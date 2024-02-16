@@ -9,6 +9,6 @@
     },
     "api": {
         "type": "openapi",
-        "url": "tbd - insert here"
+        "url": "https://raw.githubusercontent.com/TJKlein/tjklein.github.io/master/data/wka.yaml"
     }
 }
