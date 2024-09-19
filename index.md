@@ -9,6 +9,7 @@ I am a member of the European Laboratory for Learning and Intelligent Systems ([
 
 My current research interests lie in natural language processing (NLP) and the intersection with computer vision:
 * Learning with minimal supervision (few-shot learning, self-supervised learning)
+* Foundation models for structured data (table representation learning)
 * LLM alignment (integration of knowledge-graphs)
 * Multi-modal LLMs (advanced reasoning with LLMs, knowledge-grounded LLMs)
 
@@ -70,5 +71,5 @@ My current research interests lie in natural language processing (NLP) and the i
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 01/17/2024]*
+*[last update: 09/19/2024]*
 
