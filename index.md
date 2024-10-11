@@ -17,8 +17,8 @@ My current research interests lie in natural language processing (NLP) and the i
 ### News
 
 [2024.10] - Two papers accepted at the [NeurIPS'24 Table Representation Learning Workshop](https://table-representation-learning.github.io/)
-* SALT: Sales Autocompletion Linked Business Tables Dataset
-* PORTAL: Scalable Tabular Foundation Models via Content-Specific Tokenization
+* SALT: Sales Autocompletion Linked Business Tables Dataset - [pre-print](https://openreview.net/forum?id=UZbELpkWIr)
+* PORTAL: Scalable Tabular Foundation Models via Content-Specific Tokenization - [pre-print](https://openreview.net/forum?id=TSZQvknbLO)
 
 [2024.01] -  Pre-print available on Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models
 
