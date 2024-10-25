@@ -13,6 +13,12 @@ My current research interests lie in natural language processing (NLP) and the i
 * LLM alignment (integration of knowledge-graphs)
 * Multi-modal LLMs (advanced reasoning with LLMs, knowledge-grounded LLMs)
 
+### Research
+
+I am currently looking for interns. Please reach out to me on LinkedIn. Potential topics are related to the following topics. 
+* Table representation learning
+* Neurosymbolic reasoning
+
 
 ### News
 
@@ -75,5 +81,5 @@ My current research interests lie in natural language processing (NLP) and the i
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 10/10/2024]*
+*[last update: 10/25/2024]*
 
