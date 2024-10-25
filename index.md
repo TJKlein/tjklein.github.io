@@ -18,6 +18,7 @@ My current research interests lie in natural language processing (NLP) and the i
 I am currently looking for interns. Please reach out to me on LinkedIn. Potential topics are related to the following topics. 
 * Table representation learning
 * Neurosymbolic reasoning
+* Diffusion models for text/tables
 
 
 ### News
