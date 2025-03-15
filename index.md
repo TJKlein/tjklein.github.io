@@ -1,27 +1,21 @@
-I am a Principal Research Scientist and research manager [SAP AI CTO Office](https://www.sap.com/germany/products/artificial-intelligence/research.html). 
-Prior to joining SAP, I was a postdoctoral research fellow at Harvard Medical School, Brigham & Women's Hospital, Boston, in the group of [Sandy Wells](https://lmi.med.harvard.edu/people/william-wells). At the same time, I was a postdoctoral research associate in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, working with the group of [Polina Goland](https://people.csail.mit.edu/polina/index.html). During that time, I was conducting research on large-scale machine learning and optimization technologies for discriminative pattern discovery of genetically driven imaging biomarkers.
-I obtained my Ph.D. from the Technical University of Munich (TUM) at the intersection of medical imaging and machine learning (raw ultrasound data processing for applications such as early detection of Parkinson's disease), advised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab).
+## Tassilo J. Klein, Ph.D. - Bridging Research and Impact in AI
 
-I am a member of the European Laboratory for Learning and Intelligent Systems ([ELLIS](https://ellis.eu/)).
+I am a Principal Research Scientist and research manager at the SAP AI CTO Office, spearheading innovation in  Natural Language Processing (NLP) and its intersection with machine learning for structured data. My work focuses on developing cutting-edge AI solutions with real-world impact.
 
-### Research
+Before joining SAP, I honed my research skills as a postdoctoral fellow at Harvard Medical School and MIT CSAIL, where I investigated large-scale machine learning and optimization for discovering genetically driven imaging biomarkers.  My doctoral research at the Technical University of Munich (TUM) further solidified my expertise in the application of machine learning to medical imaging, focusing on raw ultrasound data processing for early disease detection.
 
-
-My current research interests lie in natural language processing (NLP) and the intersection with computer vision:
-* Learning with minimal supervision (few-shot learning, self-supervised learning)
-* Foundation models for structured data (table representation learning)
-* LLM alignment (integration of knowledge-graphs)
-* Multi-modal LLMs (advanced reasoning with LLMs, knowledge-grounded LLMs)
-
-### Research
-
-I am currently looking for interns. Please reach out to me on LinkedIn. Potential topics are related to the following topics. 
-* Table representation learning
-* Neurosymbolic reasoning
-* Diffusion models for text/tables
+I am also a proud member of the European Laboratory for Learning and Intelligent Systems (ELLIS).
 
 
-### News
+## Research Focus
+
+My current research focuses on the intersection of Natural Language Processing (NLP) and structured data, particularly table representation learning, along with other related areas.
+
+
+## Recent Publications & Projects
+
+I'm passionate about disseminating research findings and contributing to the open-source community.  A selection of my recent work includes:
+
 
 [2024.10] - Two papers accepted at the [NeurIPS'24 Table Representation Learning Workshop](https://table-representation-learning.github.io/)
 * SALT: Sales Autocompletion Linked Business Tables Dataset - [pre-print](https://openreview.net/forum?id=UZbELpkWIr)
@@ -82,5 +76,10 @@ I am currently looking for interns. Please reach out to me on LinkedIn. Potentia
 [![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
 
 
-*[last update: 10/25/2024]*
 
+##  Collaborations & Mentorship
+
+I am actively involved in mentoring and collaborating with researchers. I also contribute to the research community as a reviewer for conferences such as ACL, CVPR, EMNLP, and workshops like the TLR Workshop. My current interests include exploring table representation learning, neurosymbolic reasoning, and diffusion models for text and tables.  Please feel free to connect on LinkedIn.
+
+
+**(Last updated: March 15, 2025)**
