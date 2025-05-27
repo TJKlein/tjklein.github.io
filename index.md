@@ -19,15 +19,17 @@ Member, European Laboratory for Learning and Intelligent Systems (ELLIS).
 
 ## Selected publications and projects
 
+[2025.05] - New pre-print available on foundation models for tabular data in enterprises
+
+[![arXiv](https://img.shields.io/badge/arXiv-2505.19825-29d634.svg)](https://arxiv.org/abs/2505.19825)
+
 [2025.05] - Paper accepted at **[ACL 2025](https://www.2025.aclweb.org/)** — *Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Model*
+
+[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2401.08491) 
 
 [2024.10] - Two papers accepted at the [NeurIPS'24 Table Representation Learning Workshop](https://table-representation-learning.github.io/)
 * SALT: Sales Autocompletion Linked Business Tables Dataset - [pre-print](https://openreview.net/forum?id=UZbELpkWIr)
 * PORTAL: Scalable Tabular Foundation Models via Content-Specific Tokenization - [pre-print](https://openreview.net/forum?id=TSZQvknbLO)
-
-[2024.01] -  Pre-print available on Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models
-
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2401.08491) 
 
 [2023.05] - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations.
 
@@ -88,4 +90,4 @@ Reviewer for ACL, EMNLP, CVPR and related workshops. I supervise students and in
 
 [LinkedIn](https://www.linkedin.com/in/tassiloklein)
 
-<p align="right"><sub>Last updated — 16 May 2025</sub></p>
+<p align="right"><sub>Last updated — 27 May 2025</sub></p>
