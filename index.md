@@ -1,23 +1,30 @@
-## Tassilo J. Klein, Ph.D. — AI Research Scientist
+# **Tassilo J. Klein, Ph.D.**  
+**Principal Research Scientist & Research Manager**  
 
-I am a Principal Research Scientist and research manager in the SAP AI CTO Office, working on Natural Language Processing (NLP) and machine learning for enterprise structured data.
-
-Before joining SAP, I was a postdoctoral fellow at Harvard Medical School and MIT CSAIL, where I studied large‑scale optimisation for genetically driven imaging biomarkers. I completed my Ph.D. at the Technical University of Munich (TUM) on raw‑ultrasound signal processing for early disease detection.
-
-Member, European Laboratory for Learning and Intelligent Systems (ELLIS).
+📍 SAP AI CTO Office | 💡 LLMs, NLP, Structured Data AI | 🌐 [LinkedIn](https://www.linkedin.com/in/tassiloklein) • [Google Scholar](https://scholar.google.com/citations?user=z7-L4ywAAAAJ)  
 
 ---
 
-## Research Focus
+## 🧑‍💻 About Me
 
-* Natural Language Processing and large language models
-* Table representation learning
-* Contrastive and self‑supervised learning
-* Medical imaging and computational biology
+I am a Principal Research Scientist and Research Manager in the **SAP AI CTO Office**, working on **Natural Language Processing (NLP)**, **large language models (LLMs)**, and **machine learning for enterprise structured data**.  
+My work spans from advancing foundational AI techniques to delivering enterprise-ready systems — including **knowledge-augmented LLMs**, **privacy-preserving AI**, and **intelligent agents** for complex workflows.
+
+Previously, I was a **postdoctoral research fellow** at **Harvard Medical School** and **Brigham & Women’s Hospital** in Boston, and a **postdoctoral research associate** at the **Computer Science and Artificial Intelligence Laboratory (CSAIL)** at **MIT**.  
+I earned my **Ph.D.** from the **Technical University of Munich (TUM)** at the intersection of **medical imaging** and **machine learning**.
+
+Member of the **European Laboratory for Learning and Intelligent Systems (ELLIS)**.
 
 ---
 
-## Selected publications and projects
+## 🎯 Research Focus
+
+Large language models (LLMs) and NLP; representation learning for structured/tabular data; few-shot & self-supervised learning; multi-modal AI; intelligent agents
+
+---
+
+## 📄 Selected Publications & Projects
+
 
 [2025.05] - New pre-print available on foundation models for tabular data in enterprises
 
@@ -84,10 +91,12 @@ Member, European Laboratory for Learning and Intelligent Systems (ELLIS).
 
 ---
 
-## Community and mentorship
+## 🤝 Community & Mentorship
 
-Reviewer for ACL, EMNLP, CVPR and related workshops. I supervise students and interns (15 alumni to date). Current interests: table representation learning, neuro‑symbolic reasoning, and diffusion models for text and tables.
+- **Reviewer** for ACL, EMNLP, CVPR, and related workshops  
+- **Mentor** to 15+ students and interns (alumni in academia and industry)  
+- **Current interests:** table representation learning, agentic AI systems  
 
-[LinkedIn](https://www.linkedin.com/in/tassiloklein)
+---
 
-<p align="right"><sub>Last updated — 27 May 2025</sub></p>
+<p align="right"><sub>Last updated — 14 August 2025</sub></p>
