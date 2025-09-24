@@ -26,6 +26,8 @@ Large language models (LLMs) and NLP; representation learning for structured/tab
 ## 📄 Selected Publications & Projects
 
 
+[2025.07] - [SALT](https://huggingface.co/datasets/SAP/SALT) officially integrated into [RelBench](https://github.com/snap-stanford/relbench).
+
 [2025.05] - New pre-print available on foundation models for tabular data in enterprises
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19825-29d634.svg)](https://arxiv.org/abs/2505.19825)
@@ -99,4 +101,4 @@ Large language models (LLMs) and NLP; representation learning for structured/tab
 
 ---
 
-<p align="right"><sub>Last updated — 14 August 2025</sub></p>
+<p align="right"><sub>Last updated — 24 September 2025</sub></p>
