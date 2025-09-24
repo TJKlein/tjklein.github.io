@@ -95,7 +95,7 @@ Large language models (LLMs) and NLP; representation learning for structured/tab
 
 ## 🤝 Community & Mentorship
 
-- **Reviewer** for ACL, EMNLP, CVPR, and related workshops  
+- **Reviewer** for ACL, EMNLP, CVPR, and related workshops such as TLR  
 - **Mentor** to 15+ students and interns (alumni in academia and industry)  
 - **Current interests:** table representation learning, agentic AI systems  
 
