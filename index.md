@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a Principal Research Scientist and Research Manager in the **SAP AI CTO Office**, working on **Natural Language Processing (NLP)**, **large language models (LLMs)**, and **machine learning for enterprise structured data**.  
+I am a Principal Research Scientist in the **SAP AI CTO Office**, working on **Natural Language Processing (NLP)**, **large language models (LLMs)**, and **machine learning for enterprise structured data**.  
 My work spans from advancing foundational AI techniques to delivering enterprise-ready systems — including **knowledge-augmented LLMs**, **privacy-preserving AI**, and **intelligent agents** for complex workflows.
 
 Previously, I was a **postdoctoral research fellow** at **Harvard Medical School** and **Brigham & Women’s Hospital** in Boston, and a **postdoctoral research associate** at the **Computer Science and Artificial Intelligence Laboratory (CSAIL)** at **MIT**.  
@@ -101,4 +101,4 @@ Large language models (LLMs) and NLP; representation learning for structured/tab
 
 ---
 
-<p align="right"><sub>Last updated — 24 September 2025</sub></p>
+<p align="right"><sub>Last updated — 12 October 2025</sub></p>
