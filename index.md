@@ -11,11 +11,14 @@
 ## 🧠 About Me
 
 I am a **Director of Machine Learning Research & Principal Scientist** in the **SAP AI CTO Office**, where I lead research on **large language models (LLMs)**, **foundation models**, and **structured data AI**.  
-My work bridges **representation learning**, **knowledge integration**, and **agentic AI systems** to create scalable and trustworthy enterprise AI solutions.
+My mission is to advance how enterprises leverage AI — by designing systems that can reason over complex structured data, adapt to limited supervision, and integrate domain-specific knowledge with the general capabilities of LLMs.
 
-I focus on advancing **few-shot and self-supervised learning** and deploying **enterprise-scale AI architectures** that combine scientific rigor with real-world impact.  
-Previously, I conducted research at **MIT CSAIL** and **Harvard Medical School**, and earned my **Ph.D. (summa cum laude)** from the **Technical University of Munich (TUM)**.  
-Member of the **European Laboratory for Learning and Intelligent Systems (ELLIS)**.
+I oversee strategic research programs that bridge **fundamental machine learning** and **enterprise-scale deployment**, turning scientific innovation into robust, trustworthy AI platforms.  
+This includes developing **foundation models for structured and relational data**, **knowledge-augmented LLMs**, and **agentic AI systems** that coordinate decision-making and automation across business processes.
+
+Over the past decade, I’ve built and led multidisciplinary research teams translating state-of-the-art methods into product-ready technologies — shaping how **AI is applied in large-scale enterprise systems**.  
+Before joining SAP, I conducted postdoctoral research at **MIT CSAIL** and **Harvard Medical School**, focusing on **representation learning** and **multimodal modeling** for medical imaging.  
+I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical University of Munich (TUM)** and am a member of the **European Laboratory for Learning and Intelligent Systems (ELLIS)**.
 
 ---
 
