@@ -1,25 +1,30 @@
 # **Tassilo J. Klein, Ph.D.**  
 **Director of Machine Learning Research & Principal Scientist**  
 
-📍 SAP AI CTO Office | 💡 LLMs, NLP, Structured Data AI | 🌐 [LinkedIn](https://www.linkedin.com/in/tassiloklein) • [Google Scholar](https://scholar.google.com/citations?user=z7-L4ywAAAAJ)  
+📍 SAP AI CTO Office | 💡 LLMs, Foundation Models, Structured Data AI  
+🌐 [LinkedIn](https://www.linkedin.com/in/tassiloklein) • [Google Scholar](https://scholar.google.com/citations?user=z7-L4ywAAAAJ)
+
+> *Building intelligent systems that connect language, knowledge, and enterprise data.*
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-I am a PDirector of Machine Learning Research & Principal Scientist in the **SAP AI CTO Office**, working on **Natural Language Processing (NLP)**, **large language models (LLMs)**, and **machine learning for enterprise structured data**.  
-My work spans from advancing foundational AI techniques to delivering enterprise-ready systems — including **knowledge-augmented LLMs**, **privacy-preserving AI**, and **intelligent agents** for complex workflows.
+I am a **Director of Machine Learning Research & Principal Scientist** in the **SAP AI CTO Office**, where I lead research on **large language models (LLMs)**, **foundation models**, and **structured data AI**.  
+My work bridges **representation learning**, **knowledge integration**, and **agentic AI systems** to create scalable and trustworthy enterprise AI solutions.
 
-Previously, I was a **postdoctoral research fellow** at **Harvard Medical School** and **Brigham & Women’s Hospital** in Boston, and a **postdoctoral research associate** at the **Computer Science and Artificial Intelligence Laboratory (CSAIL)** at **MIT**.  
-I earned my **Ph.D.** from the **Technical University of Munich (TUM)** at the intersection of **medical imaging** and **machine learning**.
-
+I focus on advancing **few-shot and self-supervised learning** and deploying **enterprise-scale AI architectures** that combine scientific rigor with real-world impact.  
+Previously, I conducted research at **MIT CSAIL** and **Harvard Medical School**, and earned my **Ph.D. (summa cum laude)** from the **Technical University of Munich (TUM)**.  
 Member of the **European Laboratory for Learning and Intelligent Systems (ELLIS)**.
 
 ---
 
-## 🎯 Research Focus
+## 🔬 Research Focus
 
-Large language models (LLMs) and NLP; representation learning for structured/tabular data; few-shot & self-supervised learning; multi-modal AI; intelligent agents
+- Foundation models for **structured/tabular data**  
+- Knowledge-augmented and **privacy-preserving LLMs**  
+- **Representation learning** and contrastive methods  
+- **Intelligent and agentic systems** for enterprise automation  
 
 ---
 
@@ -93,11 +98,18 @@ Large language models (LLMs) and NLP; representation learning for structured/tab
 
 ---
 
+## 🧭 Vision & Collaboration
+
+I aim to advance **AI systems that reason over structured data**, **adapt efficiently**, and **integrate domain knowledge** to support enterprise decision-making.  
+At SAP, I drive the interface between **fundamental AI research** and **strategic enterprise transformation**, shaping how LLMs evolve for real-world impact.
+
+---
+
 ## 🤝 Community & Mentorship
 
-- **Reviewer** for ACL, EMNLP, CVPR, and related workshops such as TLR  
-- **Mentor** to 15+ students and interns (alumni in academia and industry)  
-- **Current interests:** table representation learning, agentic AI systems  
+- Reviewer for ACL, EMNLP, CVPR, and NeurIPS  
+- Mentor to 15+ researchers and Ph.D. students  
+- Co-organizer: **ICML 2021 Workshop on Self-Supervised Learning for Reasoning and Perception**
 
 ---
 
