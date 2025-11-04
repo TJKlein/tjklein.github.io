@@ -33,6 +33,11 @@ I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical Un
 
 ## 📄 Selected Publications & Projects
 
+[2025.11] - A paper accepted at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
+* SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
+
+[2025.07] - A paper accepted at the [SIGMOD'25 Workshop on Data Management for End-to-End Machine Learning](https://deem-workshop.github.io/)
+* [Table Dissolution: Adding Salt To Your Data](https://dl.acm.org/doi/pdf/10.1145/3735654.3735944)
 
 [2025.07] - [SALT](https://huggingface.co/datasets/SAP/SALT) officially integrated into [RelBench](https://github.com/snap-stanford/relbench).
 
@@ -116,4 +121,4 @@ At SAP, I drive the interface between **fundamental AI research** and **strategi
 
 ---
 
-<p align="right"><sub>Last updated — 22 October 2025</sub></p>
+<p align="right"><sub>Last updated — 04 November 2025</sub></p>
