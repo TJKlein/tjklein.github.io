@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I am a **Director of Machine Learning Research & Principal Scientist** in the **SAP AI CTO Office**, where I lead research on **large language models (LLMs)**, **foundation models**, and **structured data AI**.  
+I am **Director of Machine Learning Research & Principal Scientist** in the **SAP AI CTO Office**, where I lead research on **large language models (LLMs)**, **foundation models**, and **structured data AI**.  
 My mission is to advance how enterprises leverage AI — by designing systems that can reason over complex structured data, adapt to limited supervision, and integrate domain-specific knowledge with the general capabilities of LLMs.
 
 I oversee strategic research programs that bridge **fundamental machine learning** and **enterprise-scale deployment**, turning scientific innovation into robust, trustworthy AI platforms.  
