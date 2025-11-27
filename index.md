@@ -121,4 +121,47 @@ At SAP, I drive the interface between **fundamental AI research** and **strategi
 
 ---
 
-<p align="right"><sub>Last updated — 04 November 2025</sub></p>
+## 👩‍🔬 Former Interns & Where They Are Now
+
+I’ve had the privilege of mentoring exceptional research interns who have since moved on to leading academic labs and industrial AI teams:
+
+- **[Enrico Fini](https://scholar.google.com/citations?user=OQMtSKIAAAAJ&hl=en)** — Member of Technical Staff at **Microsoft AI** (previously Research Scientist at Apple Machine Learning Research)
+
+- **[Stefan Lionar](https://scholar.google.com/citations?user=w6RfcvMAAAAJ&hl=en)** — Ph.D. Student in Computer Science at **National University of Singapore (NUS)** & **Sea AI Lab**
+
+- **[Jan Nikolas Morshuis](https://scholar.google.com/citations?user=iWu_5C8AAAAJ&hl=en)** — Doctoral Researcher at the **University of Tübingen** (Cluster of Excellence “Machine Learning” / Tübingen AI Center)
+
+- **[Aiham Taleb](https://scholar.google.com/citations?user=t1zp7IYAAAAJ&hl=en)** — **Senior Applied Scientist – Generative AI** at **Amazon Web Services (AWS)** / Generative AI Innovation Center
+
+- **[Artur Speiser](https://scholar.google.com/citations?user=zLrKHu4AAAAJ&hl=en)** — **AI Research Scientist at Exscientia**, formerly Ph.D. in Machine Learning in Science at **University of Tübingen**
+
+- **[Jannik Wolff](https://scholar.google.de/citations?user=5kwR-IgAAAAJ&hl=en)** — **Machine Learning Research Scientist & Research Associate at BIFOLD**, Ph.D. Candidate at **TU Berlin (Machine Learning Group)**
+
+- **Daniel Dorda** — **Scientific Software Engineer at uniqFEED** and researcher/teaching assistant at **ETH Zürich** (Computer Graphics / Computer Science)
+
+- **[Max Bain](https://scholar.google.co.uk/citations?user=fExMPsgAAAAJ&hl=en)** — **Research Scientist at Google DeepMind**, previously Member of Technical Staff at Reka and Ph.D. at **VGG, University of Oxford**
+
+- **[Mahdyar Ravanbakhsh](https://scholar.google.com/citations?user=SI-w7jsAAAAJ&hl=en)** — **(Principal) Research Scientist at Zalando SE** in Berlin
+
+- **[Oleksiy Ostapenko](https://scholar.google.com/citations?hl=en&user=mqLVUGgAAAAJ&view_op=list_works)** — **Research Scientist at ServiceNow AI Research** (Foundation Models Lab); Ph.D. from **MILA / Université de Montréal**
+
+- **[Colin Samplawski](https://scholar.google.com/citations?user=6ufrjW4AAAAJ&hl=en)** — **Ph.D. Student at UMass Amherst (REML group)** and **Advanced Computer Scientist at SRI International (NuSCI Research Group)**
+
+- **[Mihai M. Puscas](https://scholar.google.com/citations?user=ci7FQzQAAAAJ&hl=en)** — **Computer Vision Researcher at SPORTTOTAL.TV** (previously Huawei Research, Dublin)
+
+- **[Sandro Pezzelle](https://scholar.google.com/citations?user=PW6eQ6YAAAAJ&hl=en)** — **Assistant Professor in Responsible AI** at **ILLC, University of Amsterdam**; Scientific Advisor at **IVADO Labs**
+
+- **[Frederik Pahde](https://scholar.google.com/citations?user=wCr3JzIAAAAJ&hl=en)** — **Research Associate / Ph.D. Candidate at Fraunhofer HHI & TU Berlin** (previously Applied ML Scientist at Amazon)
+
+- **[Shailza Jolly](https://scholar.google.com/citations?user=dtzCPf8AAAAJ&hl=en)** — **Research Scientist at Amazon Alexa AI** in Berlin (Ph.D. in Generative AI from TU Kaiserslautern / DFKI)
+
+- **Denis Dushi** — **Machine Learning Engineer at Amazon**
+
+- **[Vadim Tschernezki](https://scholar.google.com/citations?user=-Udk-5IAAAAJ&hl=en)** — **Ph.D. Student in Computer Vision at the Department of Engineering Science, University of Oxford (VGG)**
+
+- **[Robin C. Geyer](https://scholar.google.com/citations?user=beAB8-QAAAAJ&hl=en)** — **Ph.D. Student at the Institute for Machine Learning, ETH Zürich**
+
+<p align="right"><sub>Status to the best of my knowledge as of November 2025.</sub></p>
+
+
+<p align="right"><sub>Last updated — 27 November 2025</sub></p>
