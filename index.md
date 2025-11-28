@@ -33,7 +33,7 @@ I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical Un
 
 ## 📄 Selected Publications & Projects
 
-[2025.11] - A paper accepted at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
+[2025.11] - A paper accepted (**spotlight**) at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
 * SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
 
 [2025.07] - A paper accepted at the [SIGMOD'25 Workshop on Data Management for End-to-End Machine Learning](https://deem-workshop.github.io/)
