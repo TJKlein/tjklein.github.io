@@ -33,6 +33,8 @@ I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical Un
 
 ## 📄 Selected Publications & Projects
 
+[2026.03] - Released **[AgentKernel](https://github.com/TJKlein/agentkernel)** — An open-source, high-performance local runtime for autonomous agents implementing programmatic tool calling and self-growing tool libraries.
+
 [2025.11] - A paper accepted (**spotlight**) at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
 * SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
 
@@ -45,7 +47,7 @@ I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical Un
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19825-29d634.svg)](https://arxiv.org/abs/2505.19825)
 
-[2025.05] - Paper accepted at **[ACL 2025](https://www.2025.aclweb.org/)** — *Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Model*
+[2025.05] - Paper accepted at **[ACL 2025](https://www.2025.aclweb.org/)** — *Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Model*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2401.08491) 
 
@@ -164,4 +166,4 @@ I’ve had the privilege of mentoring exceptional research interns who have sinc
 <p align="right"><sub>Status to the best of my knowledge as of November 2025.</sub></p>
 
 
-<p align="right"><sub>Last updated — 27 November 2025</sub></p>
+<p align="right"><sub>Last updated — 4 March 2026</sub></p>
