@@ -33,7 +33,7 @@ I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical Un
 
 ## 📄 Selected Publications & Projects
 
-[2026.03] - Released **[AgentKernel](https://github.com/TJKlein/agentkernel)** — An open-source, high-performance local runtime for autonomous agents implementing programmatic tool calling and self-growing tool libraries.
+[2026.03] - Released **[MCPRuntime](https://github.com/TJKlein/mcpruntime)** — An open-source, high-performance local runtime for autonomous agents implementing programmatic tool calling and self-growing tool libraries.
 
 [2025.11] - A paper accepted (**spotlight**) at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
 * SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
