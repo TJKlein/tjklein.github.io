@@ -27,13 +27,21 @@ I hold a **Ph.D. in Computer Science (summa cum laude)** from the **Technical Un
 - Foundation models for **structured/tabular data**  
 - Knowledge-augmented and **privacy-preserving LLMs**  
 - **Representation learning** and contrastive methods  
-- **Intelligent and agentic systems** for enterprise automation  
+- **Agentic AI** — autonomous agent frameworks, MCP-based runtimes, and multi-agent orchestration  
+- **Generative UI (GenUI)** — AI-driven dynamic interface generation and adaptive user experiences  
 
 ---
 
 ## 📄 Selected Publications & Projects
 
 [2026.03] - Released **[MCPRuntime](https://github.com/TJKlein/mcpruntime)** — An open-source, high-performance local runtime for autonomous agents implementing programmatic tool calling and self-growing tool libraries.
+
+[![PyPI](https://img.shields.io/badge/PyPI-mcp--agent--runtime-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/mcp-agent-runtime/) [![GitHub](https://img.shields.io/badge/GitHub-TJKlein/mcpruntime-181717?logo=github)](https://github.com/TJKlein/mcpruntime)
+
+[2026.02] - New pre-print available on how agentic AI reshapes enterprise boundaries
+* [The Headless Firm: How AI Reshapes Enterprise Boundaries](https://arxiv.org/abs/2602.21401)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2602.21401-29d634.svg)](https://arxiv.org/abs/2602.21401)
 
 [2025.11] - A paper accepted (**spotlight**) at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
 * SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
