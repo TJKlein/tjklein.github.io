@@ -168,7 +168,4 @@ Former interns who have gone on to research roles at top labs and faculty positi
 
 - **[Robin C. Geyer](https://scholar.google.com/citations?user=beAB8-QAAAAJ&hl=en)** — **Ph.D. Student at the Institute for Machine Learning, ETH Zürich**
 
-<p align="right"><sub>Status to the best of my knowledge as of November 2025.</sub></p>
-
-
 <p align="right"><sub>Last updated — March 2026</sub></p>
