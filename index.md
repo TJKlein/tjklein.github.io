@@ -32,6 +32,11 @@ Previously: postdoc at **MIT CSAIL** and **Harvard Medical School** (representat
 
 ## 📄 Selected Publications & Projects
 
+[2026.05] - New pre-print on a tabular foundation model for generative modelling
+* [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2605.09424-29d634.svg)](https://arxiv.org/abs/2605.09424)
+
 [2026.03] - Released **[MCPRuntime](https://github.com/TJKlein/mcpruntime)** — An open-source, high-performance local runtime for autonomous agents implementing programmatic tool calling and self-growing tool libraries.
 
 [![PyPI](https://img.shields.io/badge/PyPI-mcp--agent--runtime-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/mcp-agent-runtime/) [![GitHub](https://img.shields.io/badge/GitHub-TJKlein/mcpruntime-181717?logo=github)](https://github.com/TJKlein/mcpruntime)
@@ -168,4 +173,4 @@ Former interns who have gone on to research roles at top labs and faculty positi
 
 - **[Robin C. Geyer](https://scholar.google.com/citations?user=beAB8-QAAAAJ&hl=en)** — **Ph.D. Student at the Institute for Machine Learning, ETH Zürich**
 
-<p align="right"><sub>Last updated — March 2026</sub></p>
+<p align="right"><sub>Last updated — May 2026</sub></p>
