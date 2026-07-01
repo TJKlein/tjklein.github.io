@@ -1,8 +1,6 @@
 # Tassilo J. Klein, Ph.D.
 
-**Director of ML Research · Principal Scientist · SAP AI**
-
-[LinkedIn](https://www.linkedin.com/in/tassiloklein) · [Google Scholar](https://scholar.google.com/citations?user=z7-L4ywAAAAJ)
+**Research leadership in foundation models, agentic systems, and enterprise AI.**
 
 > *I work on foundation models, agentic AI, and generative interfaces — with a focus on making large-scale AI systems actually work on the messy, structured data that enterprises run on.*
 
@@ -10,11 +8,21 @@
 
 ## About
 
-I lead ML research at the **SAP AI CTO Office**, where my team works at the frontier of **foundation models**, **agentic AI systems**, and **Generative UI**. My research spans the full stack: from representation learning and self-supervised pre-training to autonomous agent runtimes and AI-native interface generation.
+I lead ML research at the **SAP AI CTO Office**, where my team works on **foundation models for enterprise data**. As a scientific advisor to startups, I also work on **agentic AI systems** and **generative UI**. My research spans the full stack: from representation learning and self-supervised pre-training to autonomous agent runtimes and AI-native interface generation.
 
 I'm particularly interested in the coordination economics of agentic AI — how protocol-mediated agent systems change the cost structure of enterprise software, and what that implies for how we build and deploy AI at scale. 
 
 Previously: postdoc at **MIT CSAIL** and **Harvard Medical School** (representation learning, multimodal medical imaging). Ph.D. *summa cum laude* from **TU Munich**. Member of **ELLIS**.
+
+---
+
+## Selected Impact
+
+- Lead ML research in the **SAP AI CTO Office** on foundation models for enterprise data
+- Advise startups on **agentic systems** and **generative UI** as a scientific advisor
+- Recent work accepted at **ACL**, **SIGMOD workshops**, **NeurIPS TRL**, and **ICML FMSD**
+- Built and released datasets, benchmarks, and models for enterprise-scale structured data
+- Mentored 15+ researchers and Ph.D. students now at top labs and faculty-track roles
 
 ---
 
@@ -24,108 +32,159 @@ Previously: postdoc at **MIT CSAIL** and **Harvard Medical School** (representat
 |------|-------|
 | **Agentic AI** | Autonomous agent runtimes, MCP-based tool calling, multi-agent orchestration, self-growing tool libraries |
 | **Foundation Models for Structured Data** | Tabular pre-training, relational reasoning, enterprise-scale data representation |
-| **Generative UI (GenUI)** | AI-driven dynamic interface generation, adaptive UX, intent-to-UI synthesis |
+| **generative UI** | AI-driven dynamic interface generation, adaptive UX, intent-to-UI synthesis |
 | **Knowledge-Augmented LLMs** | RAG, privacy-preserving fine-tuning, domain adaptation |
 | **Representation Learning** | Contrastive and self-supervised methods, multimodal alignment |
 
 ---
 
-## 📄 Selected Publications & Projects
+## Selected Publications & Projects
 
-[2026.05] - Three papers accepted at the [FMSD @ ICML 2026 Workshop on Foundation Models for Structured Data](https://icml-structured-fm-workshop.github.io/)
-* [A Generative Foundation Model for Heterogeneous Tabular Data](https://openreview.net/forum?id=RcsaxrdpfE)
-* [TableFactory: Generating Semantically Linked Tabular Data via Multi-Agent Behavioral Simulation](https://openreview.net/forum?id=3bzbWeaL5j)
-* [Statistically Indistinguishable, Operationally Distinct: A Formal Barrier for Tabular Foundation Models](https://openreview.net/forum?id=TUYc2XUdwz)
+<div class="publication-list">
+  <h3>2026</h3>
+  <article class="publication-item">
+    <p class="pub-meta">May 2026 · FMSD @ ICML 2026 Workshop</p>
+    <p class="pub-title">A Generative Foundation Model for Heterogeneous Tabular Data</p>
+    <p class="pub-links"><a href="https://openreview.net/forum?id=RcsaxrdpfE">OpenReview</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">May 2026 · FMSD @ ICML 2026 Workshop</p>
+    <p class="pub-title">TableFactory: Generating Semantically Linked Tabular Data via Multi-Agent Behavioral Simulation</p>
+    <p class="pub-links"><a href="https://openreview.net/forum?id=3bzbWeaL5j">OpenReview</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">May 2026 · FMSD @ ICML 2026 Workshop</p>
+    <p class="pub-title">Statistically Indistinguishable, Operationally Distinct: A Formal Barrier for Tabular Foundation Models</p>
+    <p class="pub-links"><a href="https://openreview.net/forum?id=TUYc2XUdwz">OpenReview</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">May 2026 · Preprint</p>
+    <p class="pub-title">Tabular Foundation Model for Generative Modelling</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2605.09424">arXiv</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">February 2026 · Preprint</p>
+    <p class="pub-title">The Headless Firm: How AI Reshapes Enterprise Boundaries</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2602.21401">arXiv</a></p>
+  </article>
 
-[2026.05] - New pre-print on a tabular foundation model for generative modelling
-* [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424)
+  <h3>2025</h3>
+  <article class="publication-item">
+    <p class="pub-meta">November 2025 · Spotlight · EurIPS Workshop on AI for Tabular Data</p>
+    <p class="pub-title">SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables</p>
+    <p class="pub-links"><a href="https://sites.google.com/view/eurips25-ai-td/home">Workshop</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">July 2025 · SIGMOD Workshop on Data Management for End-to-End Machine Learning</p>
+    <p class="pub-title">Table Dissolution: Adding Salt To Your Data</p>
+    <p class="pub-links"><a href="https://dl.acm.org/doi/pdf/10.1145/3735654.3735944">ACM</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">July 2025 · Dataset integration</p>
+    <p class="pub-title">SALT integrated into RelBench</p>
+    <p class="pub-links"><a href="https://huggingface.co/datasets/SAP/SALT">Dataset</a><a href="https://github.com/snap-stanford/relbench">RelBench</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">May 2025 · Preprint</p>
+    <p class="pub-title">Foundation Models for Tabular Data in Enterprises</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2505.19825">arXiv</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">May 2025 · ACL 2025</p>
+    <p class="pub-title">Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Model</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2401.08491">arXiv</a></p>
+  </article>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2605.09424-29d634.svg)](https://arxiv.org/abs/2605.09424)
+  <h3>2024</h3>
+  <article class="publication-item">
+    <p class="pub-meta">October 2024 · NeurIPS Table Representation Learning Workshop</p>
+    <p class="pub-title">SALT: Sales Autocompletion Linked Business Tables Dataset</p>
+    <p class="pub-links"><a href="https://openreview.net/forum?id=UZbELpkWIr">OpenReview</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">October 2024 · NeurIPS Table Representation Learning Workshop</p>
+    <p class="pub-title">PORTAL: Scalable Tabular Foundation Models via Content-Specific Tokenization</p>
+    <p class="pub-links"><a href="https://openreview.net/forum?id=TSZQvknbLO">OpenReview</a></p>
+  </article>
 
+  <h3>2023</h3>
+  <article class="publication-item">
+    <p class="pub-meta">May 2023 · ACL 2023</p>
+    <p class="pub-title">Low-shot contrastive learning of sentence representations</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2211.04928">arXiv</a><a href="https://github.com/SAP-samples/acl2023-micse/">GitHub</a><a href="https://huggingface.co/sap-ai-research/miCSE">Model</a></p>
+  </article>
 
-[![PyPI](https://img.shields.io/badge/PyPI-mcp--agent--runtime-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/mcp-agent-runtime/) [![GitHub](https://img.shields.io/badge/GitHub-TJKlein/mcpruntime-181717?logo=github)](https://github.com/TJKlein/mcpruntime)
+  <h3>2022</h3>
+  <article class="publication-item">
+    <p class="pub-meta">February 2022 · ACL 2022</p>
+    <p class="pub-title">Self-supervised sentence representation learning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2203.07847">arXiv</a><a href="https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/">GitHub</a></p>
+  </article>
 
-[2026.02] - New pre-print available on how agentic AI reshapes enterprise boundaries
-* [The Headless Firm: How AI Reshapes Enterprise Boundaries](https://arxiv.org/abs/2602.21401)
+  <h3>2021</h3>
+  <article class="publication-item">
+    <p class="pub-meta">August 2021 · EMNLP 2021</p>
+    <p class="pub-title">Contrastive Language Model Refinement for Commonsense Reasoning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2109.05105">arXiv</a><a href="https://github.com/SAP-samples/emnlp2021-contrastive-refinement/">GitHub</a><a href="https://underline.io/lecture/37666-towards-zero-shot-commonsense-reasoning-with-self-supervised-refinement-of-language-models">Video</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">August 2021 · EMNLP 2021</p>
+    <p class="pub-title">Contrastive Self-Supervised Learning for Commonsense Reasoning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2109.05108">arXiv</a><a href="https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/">GitHub</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">April 2021 · ICML Workshop</p>
+    <p class="pub-title">Co-organizer: Self-Supervised Learning for Reasoning and Perception</p>
+    <p class="pub-links"><a href="https://icml21ssl.github.io/index.html">Workshop</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">February 2021 · IPMI 2021</p>
+    <p class="pub-title">Self-supervised representation learning for medical imaging</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/1912.05396">arXiv</a></p>
+  </article>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.21401-29d634.svg)](https://arxiv.org/abs/2602.21401)
+  <h3>2020</h3>
+  <article class="publication-item">
+    <p class="pub-meta">September 2020 · Presentation</p>
+    <p class="pub-title">Commonsense reasoning in AI</p>
+    <p class="pub-links"><a href="https://youtu.be/AdA6aJpxFfM?t=2457">Video</a><a href="https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082">Medium</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">April 2020 · ACL 2020</p>
+    <p class="pub-title">Contrastive self-supervised commonsense reasoning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2005.00669">arXiv</a><a href="https://github.com/SAP-samples/acl2019-commonsense-reasoning">GitHub</a><a href="http://slideslive.com/38929108">Video</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">February 2020 · NeuroImage</p>
+    <p class="pub-title">Representation learning for medical imaging</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/1702.08192">arXiv</a></p>
+  </article>
 
-[2025.11] - A paper accepted (**spotlight**) at the [EurIPS'25 Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home)
-* SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
+  <h3>2019</h3>
+  <article class="publication-item">
+    <p class="pub-meta">October 2019 · ICCV 2019</p>
+    <p class="pub-title">Multi-Domain Learning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/1905.06242">arXiv</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">May 2019 · ACL 2019 short paper</p>
+    <p class="pub-title">Commonsense reasoning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/1905.13497">arXiv</a><a href="https://github.com/SAP-samples/acl2019-commonsense-reasoning">GitHub</a><a href="https://github.com/SAP-samples/acl2019-commonsense/blob/main/MAS_Example.ipynb">Notebook</a></p>
+  </article>
+  <article class="publication-item">
+    <p class="pub-meta">February 2019 · CVPR 2019</p>
+    <p class="pub-title">Deep generative models for visual learning</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/1904.03137">arXiv</a><a href="https://github.com/SAP/machine-learning-dgm">GitHub</a></p>
+  </article>
 
-[2025.07] - A paper accepted at the [SIGMOD'25 Workshop on Data Management for End-to-End Machine Learning](https://deem-workshop.github.io/)
-* [Table Dissolution: Adding Salt To Your Data](https://dl.acm.org/doi/pdf/10.1145/3735654.3735944)
+  <h3>2017</h3>
+  <article class="publication-item">
+    <p class="pub-meta">February 2017 · NeuroImage</p>
+    <p class="pub-title">DeepNAT</p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/1702.08192">arXiv</a><a href="https://github.com/TJKlein/DeepNAT">GitHub</a></p>
+  </article>
+</div>
 
-[2025.07] - [SALT](https://huggingface.co/datasets/SAP/SALT) officially integrated into [RelBench](https://github.com/snap-stanford/relbench).
-
-[2025.05] - New pre-print available on foundation models for tabular data in enterprises
-
-[![arXiv](https://img.shields.io/badge/arXiv-2505.19825-29d634.svg)](https://arxiv.org/abs/2505.19825)
-
-[2025.05] - Paper accepted at **[ACL 2025](https://www.2025.aclweb.org/)** — *Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Model*
-
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2401.08491) 
-
-[2024.10] - Two papers accepted at the [NeurIPS'24 Table Representation Learning Workshop](https://table-representation-learning.github.io/)
-* SALT: Sales Autocompletion Linked Business Tables Dataset - [pre-print](https://openreview.net/forum?id=UZbELpkWIr)
-* PORTAL: Scalable Tabular Foundation Models via Content-Specific Tokenization - [pre-print](https://openreview.net/forum?id=TSZQvknbLO)
-
-[2023.05] - Paper accepted at [ACL 2023](https://www.2022.aclweb.org/) on low-shot contrastive learning of sentence representations.
-
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2211.04928) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2023-micse/) [![Download Model](https://img.shields.io/badge/-HuggingFace%20Transformer-orange)](https://huggingface.co/sap-ai-research/miCSE)
-
-[2022.02] Paper accepted at [ACL 2022](https://www.2022.aclweb.org/) on self-supervised sentence representation learning 
-
- [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2203.07847) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2022-self-contrastive-decorrelation/) 
-
-[2021.08] Paper at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Language Model Refinement for Commonsense Reasoning
-
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)](https://arxiv.org/abs/2109.05105) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/emnlp2021-contrastive-refinement/) [![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](https://underline.io/lecture/37666-towards-zero-shot-commonsense-reasoning-with-self-supervised-refinement-of-language-models)
-
-[2021.08] Paper at [EMNLP 2021](https://2021.emnlp.org/) on Contrastive Self-Supervised Learning for Commonsense Reasoning
-
-[![arXiv](https://img.shields.io/badge/arXiv-2109.05108-29d634.svg)](https://arxiv.org/abs/2109.05108) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/emnlp2021-attention-contrastive-learning/)
-
-[2021.04] Acceptance of co-organized at [ICML 2021 workshop](https://icml21ssl.github.io/index.html) on Self-Supervised Learning for Reasoning and Perception 
-
-[2021.02] Paper accepted at [IPMI 2021](https://ipmi2021.org/) on self-supervised representation learning for medical imaging (acceptance rate 30.0%)
-
-[![arXiv](https://img.shields.io/badge/arXiv-1912.05396-29d634.svg)](https://arxiv.org/abs/1912.05396) 
-
-[2020.09] Presentation on commonsense reasoning in AI
-
-[![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/AdA6aJpxFfM?t=2457) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sap-machine-learning-research/common-sense-still-not-common-in-ai-9d68f431e17f?source=friends_link&sk=667a5243eba0e5c19b28941ce8bd1082)
-
-[2020.04] Paper accepted at [ACL 2020](https://acl2020.org/) on contrastive self-supervised commonsense reasoning (acceptance rate of 17.6%)
-
-[![arXiv](https://img.shields.io/badge/arXiv-2005.00669-29d634.svg)](https://arxiv.org/abs/2005.00669) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning) [![video](https://img.shields.io/badge/YouTube-video-grey?logo=youtube&labelColor=FF0000)](http://slideslive.com/38929108)
-
-[2020.02] Paper accepted at  [NeuroImage](https://www.journals.elsevier.com/neuroimage)
-
-[![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) 
-
-[2019.10.20] Paper on Multi-Domain Learning accepted at [ICCV 2019](http://iccv2019.thecvf.com/) (acceptance rate 25.0%)
-
-[![arXiv](https://img.shields.io/badge/arXiv-1905.06242-29d634.svg)](https://arxiv.org/abs/1905.06242)
-
-[2019.05.14] Short-paper on commonsense reasoning accepted at [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (acceptance rate 18.2%)
-
-[![arXiv](https://img.shields.io/badge/arXiv-1905.13497-29d634.svg)](https://arxiv.org/abs/1905.13497) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP-samples/acl2019-commonsense-reasoning) [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/SAP-samples/acl2019-commonsense/blob/main/MAS_Example.ipynb)
-
-[2019.02.25] Paper accepted at [CVPR 2019](http://cvpr2019.thecvf.com/) (acceptance rate 25.2%)
-
-[![arXiv](https://img.shields.io/badge/arXiv-1904.03137-29d634.svg)](https://arxiv.org/abs/1904.03137) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SAP/machine-learning-dgm)
-
-[2017.02.01] Paper accepted at [NeuroImage](https://www.journals.elsevier.com/neuroimage)
-
-[![arXiv](https://img.shields.io/badge/arXiv-1702.08192-29d634.svg)](https://arxiv.org/abs/1702.08192) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/TJKlein/DeepNAT)
-
-
----
-
-## Open Source
-
-I believe frontier research should ship. If you're working on agentic AI runtimes, tabular foundation models, or generative interfaces — reach out or open an issue.
 
 ---
 

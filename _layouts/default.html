@@ -14,14 +14,20 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ 'Tassilo Klein, Ph.D.' }}</a></h1>
-        
+        <a class="site-title" href="{{ "/" | absolute_url }}">Tassilo Klein, Ph.D.</a>
+
         {% if site.logo %}
-          <img src="{{'/images/tjk-circle.png' | relative_url}}" alt="tjk" />
+          <img class="profile-photo" src="{{'/images/tjk-circle.png' | relative_url}}" alt="Portrait of Tassilo Klein" />
         {% endif %}
-        <p div align="center" class="view"><a href="https://www.linkedin.com/in/tassiloklein/">LinkedIn</a></p>
-        <p div align="center" class="view"><a href="https://scholar.google.com/citations?hl=en&user=z7-L4ywAAAAJ&view_op=list_works">Google scholar</a></p>
-        <p div align="center" class="view"><a href="https://github.com/tjklein/">GitHub</a></p>
+
+        <p class="profile-role">Director of ML Research · Principal Scientist · SAP AI</p>
+        <p class="profile-focus">Foundation models, agents, structured data, generative UI</p>
+
+        <nav class="profile-links" aria-label="Profile links">
+          <a href="https://www.linkedin.com/in/tassiloklein/">LinkedIn</a>
+          <a href="https://scholar.google.com/citations?hl=en&user=z7-L4ywAAAAJ&view_op=list_works">Scholar</a>
+          <a href="https://github.com/tjklein/">GitHub</a>
+        </nav>
         
         
         {% if site.show_downloads %}
