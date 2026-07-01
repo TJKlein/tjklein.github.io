@@ -12,7 +12,7 @@
 
 I lead ML research at the **SAP AI CTO Office**, where my team works at the frontier of **foundation models**, **agentic AI systems**, and **Generative UI**. My research spans the full stack: from representation learning and self-supervised pre-training to autonomous agent runtimes and AI-native interface generation.
 
-I'm particularly interested in the coordination economics of agentic AI — how protocol-mediated agent systems change the cost structure of enterprise software, and what that implies for how we build and deploy AI at scale. I've open-sourced **[MCPRuntime](https://github.com/TJKlein/mcpruntime)**, a high-performance local runtime for autonomous agents, available on [PyPI](https://pypi.org/project/mcp-agent-runtime/).
+I'm particularly interested in the coordination economics of agentic AI — how protocol-mediated agent systems change the cost structure of enterprise software, and what that implies for how we build and deploy AI at scale. 
 
 Previously: postdoc at **MIT CSAIL** and **Harvard Medical School** (representation learning, multimodal medical imaging). Ph.D. *summa cum laude* from **TU Munich**. Member of **ELLIS**.
 
@@ -32,12 +32,16 @@ Previously: postdoc at **MIT CSAIL** and **Harvard Medical School** (representat
 
 ## 📄 Selected Publications & Projects
 
+[2026.05] - Three papers accepted at the [FMSD @ ICML 2026 Workshop on Foundation Models for Structured Data](https://icml-structured-fm-workshop.github.io/)
+* [A Generative Foundation Model for Heterogeneous Tabular Data](https://openreview.net/forum?id=RcsaxrdpfE)
+* [TableFactory: Generating Semantically Linked Tabular Data via Multi-Agent Behavioral Simulation](https://openreview.net/forum?id=3bzbWeaL5j)
+* [Statistically Indistinguishable, Operationally Distinct: A Formal Barrier for Tabular Foundation Models](https://openreview.net/forum?id=TUYc2XUdwz)
+
 [2026.05] - New pre-print on a tabular foundation model for generative modelling
 * [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.09424-29d634.svg)](https://arxiv.org/abs/2605.09424)
 
-[2026.03] - Released **[MCPRuntime](https://github.com/TJKlein/mcpruntime)** — An open-source, high-performance local runtime for autonomous agents implementing programmatic tool calling and self-growing tool libraries.
 
 [![PyPI](https://img.shields.io/badge/PyPI-mcp--agent--runtime-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/mcp-agent-runtime/) [![GitHub](https://img.shields.io/badge/GitHub-TJKlein/mcpruntime-181717?logo=github)](https://github.com/TJKlein/mcpruntime)
 
@@ -173,4 +177,4 @@ Former interns who have gone on to research roles at top labs and faculty positi
 
 - **[Robin C. Geyer](https://scholar.google.com/citations?user=beAB8-QAAAAJ&hl=en)** — **Ph.D. Student at the Institute for Machine Learning, ETH Zürich**
 
-<p align="right"><sub>Last updated — May 2026</sub></p>
+<p align="right"><sub>Last updated — July 2026</sub></p>
