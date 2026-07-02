@@ -1,8 +1,8 @@
 # Tassilo J. Klein, Ph.D.
 
-**Research leadership in foundation models, agentic systems, and enterprise AI.**
+**Research leadership in foundation models, enterprise data, and applied AI systems.**
 
-> *I work on foundation models, agentic AI, and generative interfaces — with a focus on making large-scale AI systems actually work on the messy, structured data that enterprises run on.*
+> *My work connects machine learning research with deployed AI systems, from representation learning and foundation models for structured data to agentic workflows and AI-native interfaces.*
 
 ---
 
