@@ -57,6 +57,8 @@ My academic background includes postdoctoral research at **MIT CSAIL** and **Har
 
 ## Selected Publications
 
+- **Tabular Foundation Model for Generative Modelling** · [NeurIPS 2026](https://neurips.cc/) · [arXiv](https://arxiv.org/abs/2605.09424)
+
 - **Differentially Private Federated Learning: A Client-Level Perspective**  
   [Paper](https://arxiv.org/abs/1712.07557)
 
