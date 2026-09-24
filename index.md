@@ -35,6 +35,10 @@ My academic background includes postdoctoral research at **MIT CSAIL** and **Har
 
 ## Recent Publications & Updates
 
+[2026.09] - Tabular Foundation Model for Generative Modelling accepted at NeurIPS 2026
+
+- [Tabular Foundation Model for Generative Modelling](https://arxiv.org/abs/2605.09424)
+
 [2026.05] - Three papers accepted at the ICML 2026 Workshop on Foundation Models for Structured Data
 
 - [A Generative Foundation Model for Heterogeneous Tabular Data](https://openreview.net/forum?id=RcsaxrdpfE)
